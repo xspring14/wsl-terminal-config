@@ -298,7 +298,7 @@
             "cursorColor" : "#FFFFFF",
             "cursorShape" : "bar",
             "fontFace" : "Consolas",
-            "fontSize" : 11,
+            "fontSize" : 12,
             "guid" : "{6f9994f0-4403-5e85-9cce-98e5da3839bb}",
             "historySize" : 9001,
             "icon" : "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
@@ -306,13 +306,13 @@
             "padding" : "0, 0, 0, 0",
             "snapOnInput" : true,
             "startingDirectory" : "//wsl$/Ubuntu-16.04/home/mai",
-            "useAcrylic" : false
+            "useAcrylic" : true
         }
     ],
     "schemes" : 
     [
         {
-            "background" : "#CCCCCC",
+            "background" : "#000000",
             "black" : "#000000",
             "blue" : "#0037DA",
             "brightBlack" : "#767676",
@@ -324,7 +324,7 @@
             "brightWhite" : "#F2F2F2",
             "brightYellow" : "#F9F1A5",
             "cyan" : "#3A96DD",
-            "foreground" : "#000000",
+            "foreground" : "#ffffff",
             "green" : "#13A10E",
             "name" : "Campbell",
             "purple" : "#881798",
