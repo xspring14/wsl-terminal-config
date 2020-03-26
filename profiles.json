@@ -34,7 +34,7 @@
                 "command" : "newTab",
                 "keys" : 
                 [
-                    "ctrl+shift+t"
+                    "alt+t"
                 ]
             },
             {
@@ -167,63 +167,63 @@
                 "command" : "switchToTab0",
                 "keys" : 
                 [
-                    "ctrl+alt+1"
+                    "alt+R+1"
                 ]
             },
             {
                 "command" : "switchToTab1",
                 "keys" : 
                 [
-                    "ctrl+alt+2"
+                    "alt+R+2"
                 ]
             },
             {
                 "command" : "switchToTab2",
                 "keys" : 
                 [
-                    "ctrl+alt+3"
+                    "alt+R+3"
                 ]
             },
             {
                 "command" : "switchToTab3",
                 "keys" : 
                 [
-                    "ctrl+alt+4"
+                    "alt+R+4"
                 ]
             },
             {
                 "command" : "switchToTab4",
                 "keys" : 
                 [
-                    "ctrl+alt+5"
+                    "alt+R+5"
                 ]
             },
             {
                 "command" : "switchToTab5",
                 "keys" : 
                 [
-                    "ctrl+alt+6"
+                    "alt+R+6"
                 ]
             },
             {
                 "command" : "switchToTab6",
                 "keys" : 
                 [
-                    "ctrl+alt+7"
+                    "alt+R+7"
                 ]
             },
             {
                 "command" : "switchToTab7",
                 "keys" : 
                 [
-                    "ctrl+alt+8"
+                    "alt+R+8"
                 ]
             },
             {
                 "command" : "switchToTab8",
                 "keys" : 
                 [
-                    "ctrl+alt+9"
+                    "alt+R+9"
                 ]
             }
         ],
@@ -291,7 +291,7 @@
             "useAcrylic" : true
         },
         {
-            "acrylicOpacity" : 0.5,
+            "acrylicOpacity" : 0.9,
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "wsl.exe -d Ubuntu-16.04",
@@ -306,7 +306,7 @@
             "padding" : "0, 0, 0, 0",
             "snapOnInput" : true,
             "startingDirectory" : "//wsl$/Ubuntu-16.04/home/mai",
-            "useAcrylic" : true
+            "useAcrylic" : false
         }
     ],
     "schemes" : 
